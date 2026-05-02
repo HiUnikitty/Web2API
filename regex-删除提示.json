@@ -1,0 +1,18 @@
+{
+    "id": "b358cc3c-f4fa-4d0f-98e9-d644fd4195f1",
+    "scriptName": "删除提示",
+    "findRegex": "你好，这个问题我暂时无法回答，让我们换个话题再聊聊吧。",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        1,
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
