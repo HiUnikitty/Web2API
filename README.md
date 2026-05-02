@@ -38,7 +38,7 @@ Gemini Pro 免费使用，写代码查资料足够用。
 
 本软件为付费产品，需要激活码才能使用。
 
-👉 **[点击前往闲鱼购买激活码](https://m.tb.cn/h.iEd8DKi?tk=YtiS5lshJZi)**
+👉 **[点击前往闲鱼购买激活码](https://m.tb.cn/h.iEWaPr4?tk=ubr45O8Q64y)**
 
 ---
 
