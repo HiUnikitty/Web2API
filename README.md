@@ -34,15 +34,4 @@ Gemini Pro 免费使用，写代码查资料足够用。
 
 ---
 
-## 端口
-
-| 服务 | 端口 |
-|------|------|
-| 🐋 DeepSeek | `55555` |
-| 🤖 Grok | `5559` |
-| 🟠 Claude | `44445` |
-| 💠 AI Studio | `55556` |
-
----
-
 👉 **[去闲鱼买激活码](https://m.tb.cn/h.iEd8DKi?tk=YtiS5lshJZi)**
