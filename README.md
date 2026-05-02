@@ -30,7 +30,7 @@ Gemini Pro 免费使用，写代码查资料足够用。
 2. 客户端填 `http://127.0.0.1:端口/v1`
 3. 开聊
 
-支持 Chatbox、SillyTavern、OpenCat 等所有 OpenAI 兼容客户端。
+支持 Chatbox、SillyTavern、CherryStudio、Cline、OpenCode 等所有 OpenAI 兼容客户端。
 
 ---
 
